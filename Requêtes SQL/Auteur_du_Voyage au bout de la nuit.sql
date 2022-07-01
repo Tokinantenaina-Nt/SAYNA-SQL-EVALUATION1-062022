@@ -1,0 +1,1 @@
+SELECT auteur, titre FROM biblio.oeuvres where titre = "Voyage au bout de la nuit"

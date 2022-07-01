@@ -1,0 +1,1 @@
+SELECT COUNT(NL) as 'nombre des livres emprunter' FROM emprunter WHERE NL IS NOT NULL

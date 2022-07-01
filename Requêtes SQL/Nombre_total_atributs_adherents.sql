@@ -1,0 +1,1 @@
+SELECT COUNT(*) as 'atributs_adherents' FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'adherents'

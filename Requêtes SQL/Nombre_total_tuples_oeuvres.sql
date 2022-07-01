@@ -1,0 +1,1 @@
+SELECT COUNT(NO) as 'nombre des livres disponible' FROM oeuvres
